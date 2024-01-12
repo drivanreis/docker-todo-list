@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2325a91c-4fef-4651-b859-44d1d904f5d2",
+    "description": "Estudar os conteúdos de Docker da Trybe",
+    "check": true
+  },
+  {
+    "id": "d1658ee8-2262-40cb-88af-b92f19e91b61",
+    "description": "teste",
+    "check": false
+  },
+  {
+    "id": "41fc1e44-df68-47db-b688-f83fd913e5d9",
+    "description": "teste2",
+    "check": false
+  }
+]
