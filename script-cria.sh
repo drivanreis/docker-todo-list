@@ -13,6 +13,6 @@ docker run --name contBack -d -p 3001:3001 todobackend
 docker run --name contFron -d -p 3000:3000 todofrontend
 
 clear
-docker image
+docker images
 docker ps -a
 
