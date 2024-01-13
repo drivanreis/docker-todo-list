@@ -1,6 +1,7 @@
 import axios from 'axios';
-
-const HOST = process.env.REACT_APP_API_HOST || "localhost";
+// const HOST = process.env.REACT_APP_API_HOST || "localhost";
+const HOST = process.env.REACT_APP_API_HOST || "192.168.19.86";
+// const HOST = process.env.REACT_APP_API_HOST || "138.122.82.214";
 const PORT = process.env.REACT_APP_API_PORT || 3001;
 
 const fetch = axios.create({
